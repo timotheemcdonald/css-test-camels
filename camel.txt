@@ -1,0 +1,2 @@
+Testing functionality of creating a repo on desktop through terminal then uploading it to Git.
+Testing creating a new website.
